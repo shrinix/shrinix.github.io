@@ -32,34 +32,16 @@ Work experience
   
 Skills
 ======
-* Application Management and Delivery
-* Application Architecture and Design
-* Java
-* Angular
-* Springboot Microservices
-* Spring Cloud
-* Apache Kafka
-* Camunda
-* Dremio
-* Python
-* NLP
-* GenAI
-* Neural Networks
-* Deep Learning
-* Tensorflow
-* Langchain
-* Project Management
-* Agile Scrum
-* SDLC
+* Java | Angular | Springboot Microservices | Spring Cloud | Apache Kafka | Camunda | Dremio | Python | NLP | GenAI | Neural Networks | Deep Learning | Tensorflow | Langchain | Project Management | Agile Scrum | SDLC | Application Management and Delivery | Application Architecture and Design
 
-Publications
-======
+<!-- Publications
+====== -->
   
-Talks
+<!-- Talks
 ======
   
 Teaching
 ======
   
 Service and leadership
-======
+====== -->
