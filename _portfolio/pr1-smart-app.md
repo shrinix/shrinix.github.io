@@ -1,6 +1,6 @@
 ---
 title: "Next-generation Smart App PoC"
-excerpt: "Demo<br/><video controls width='600' height='400' src='/assets/videos/Demo.m4v'></video>"
+excerpt: "Demo<br/><video controls width='300' height='200' src='/assets/videos/Demo.m4v'></video>"
 collection: portfolio
 ---
 
