@@ -1,6 +1,6 @@
 ---
 title: "Next-generation Smart App PoC"
-excerpt: "Demo<br/><img src='https://github.com/shrinix/smart-app/blob/main/Demo.mov'>"
+excerpt: "Demo<br/><video controls src='https://github.com/shrinix/smart-app/blob/main/Demo.mov'></video>"
 collection: portfolio
 ---
 
