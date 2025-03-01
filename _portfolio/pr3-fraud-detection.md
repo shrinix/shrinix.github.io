@@ -1,6 +1,6 @@
 ---
 title: "Fraud Detection and Prevention Using ML"
-excerpt: "Short description of portfolio item number 3"
+excerpt: "The goal of this project is to explore and model a dataset of card transactions for detecting fraudulent activities using machine learning models like Random Forest and Decision Tree."
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Financial Forecasting Using LSTM"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://github.com/shrinix/smart-app/blob/main/Demo.mov'>"
+excerpt: "The objective of this project is to understand time series analysis and prediction. Machine Learning models like Exponential Smoothing, Linear Regression and an LSTM Neural Network model are used to forecast stock prices based on stock market data."
 collection: portfolio
 ---
 

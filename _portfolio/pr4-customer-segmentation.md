@@ -1,6 +1,6 @@
 ---
 title: "Customer Segmentation Using ML"
-excerpt: "Short description of portfolio item number 3"
+excerpt: "This project uses unsupervised Machine Learning models like KMeans clustering to implement customer segmentation i.e. categorization of customers into distinct groups based on shared characteristics."
 collection: portfolio
 ---
 

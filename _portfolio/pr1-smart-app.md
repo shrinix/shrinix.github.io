@@ -1,6 +1,7 @@
 ---
 title: "Next-generation Smart App PoC"
-excerpt: "Demo<br/><video controls width='300' height='200' src='/assets/videos/Demo.m4v'></video>"
+excerpt: "This project is a proof of concept for next-generation smart applications. It showcases advanced features and innovative AI-based solutions designed to enhance user experience and functionality.
+<br/>Demo:<br/><video controls width='300' height='200' src='/assets/videos/Demo.m4v'></video>"
 collection: portfolio
 ---
 
