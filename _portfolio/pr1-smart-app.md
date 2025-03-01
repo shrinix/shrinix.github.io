@@ -12,11 +12,20 @@ For more details, visit the [GitHub repository](https://github.com/shrinix/smart
 
 ## Overview
 
-This project is a proof of concept for a next-generation smart application. It showcases advanced features and innovative solutions designed to enhance user experience and functionality.
+This project is a proof of concept for next-generation smart applications. It showcases advanced features and innovative AI-based solutions designed to enhance user experience and functionality.
+
+Modern applications have become complex and difficult for humans to use due to a large number of
+features incorporated into them and due to the use of "procedural" techniques in which the users
+need to carry out multiple, detailed steps via UIs to accomplish their goals. Even if UX design
+can make things easier sometimes, the users still need to explicitly click or key in instructions
+to get reports or responses from applications.
+
+However, thanks to the huge progress made in NLP and AI technologies, it is now possible to replace or augment complex and procedural user interfaces with simple chat interfaces which are more "declarative" in nature. Such next-generation applications use AI assistants to interface between human users on one side and applications on the other side. The declarative nature means that i.e. the user just needs to specify what they want as the application to do, in natural language (e.g. English), and the intermediate AI assistant application "translates" their instructions to procedural steps executed by the application and returns results in a simple natural language.
 
 ## Features
 
-- Uses Chatbot to interact with and control a Web application using natural language (English)
+- Uses an LLM-based Chatbot to allow users to "interact" with a Web application using natural language (English).
+- Technologies used: Java, Spring, SpringBoot, Langchain4J, OpenAI, Angular.
 
 ## Installation
 
