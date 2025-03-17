@@ -1,6 +1,6 @@
 ---
 title: "Bank Loan Default Prediction Using ML"
-excerpt: "This project uses Machine Learning models like RandomForest and XGBoost to predict bank loan defaults and uses algorithms like SMOTE (Synthetic Minority Oversampling Technique) to create a balanced dataset and hyperparameter tuning for improving model performance."
+excerpt: "The goal of this project is to predict bank loan defaults using ML  models like RandomForest and XGBoost."
 collection: portfolio
 ---
 
@@ -9,6 +9,7 @@ collection: portfolio
 For more details, visit the [GitHub repository](https://github.com/shrinix/python_ML/blob/master/fin-ml/elvtr/credit_risk_prediction.ipynb).
 
 ## Overview
+This project uses Machine Learning to predict bank loan defaults and uses algorithms like SMOTE (Synthetic Minority Oversampling Technique) to create a balanced dataset and hyperparameter tuning for improving model performance.
 
 ## Features
 
